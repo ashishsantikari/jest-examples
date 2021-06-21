@@ -1,0 +1,22 @@
+{
+  "name": "jest-examples",
+  "version": "1.0.0",
+  "description": "demonstration of jest ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishsantikari/jest-examples.git"
+  },
+  "author": "Ashish Santikari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishsantikari/jest-examples/issues"
+  },
+  "homepage": "https://github.com/ashishsantikari/jest-examples#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
